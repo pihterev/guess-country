@@ -1,6 +1,5 @@
 {
-  "compilerOptions": {},
-  "files": [
-    "src/mapDataProvider.ts"
-  ]
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  }
 }

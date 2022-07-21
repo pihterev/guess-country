@@ -1,0 +1,12 @@
+{
+  "global": {
+    "title": "Угадай страну",
+    "menu": "Меню",
+    "start_game": "Начать игру",
+    "force_start_game": "Начать игру заново",
+    "continue_game": "Продолжить игру",
+    "leaderboard": "Рейтинг",
+    "settings": "Настройки",
+    "answer_where": "Где находится {country}?"
+  }
+}
